@@ -23,6 +23,17 @@ Perfect for:
 
 ---
 
+## 🧠 Twitter OpsKit
+> Find out everything you need to know to reliably scrape Twitter with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/twitter)
+
+This kit provides the blueprint for Twitter scraping operations:
+- **Overview:** Scraping Summary, Anti-Bots
+- **Data:** Data Types, Public APIs
+- **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
+- **Resources:** GitHub, Articles, YouTube
+
+---
+
 ## 📑 Quick Index
 - [Featured Scrapers](#featured-twitter-scrapers)
 - [Scrapers By Language](#twitter-scrapers-by-language)
@@ -36,45 +47,44 @@ Perfect for:
 ## 📦 Featured Scrapers <a id="featured-twitter-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
-| Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
-|------|----------|-------|------------|--------------|-----------------|
-| [twitter-scraper](https://github.com/bisguzar/twitter-scraper) ![img](https://github.com/bisguzar.png?size=20) | python | ⭐ 3977 | ✅ Yes | 2023-10-30 | ✅ |
-| [tweets_analyzer](https://github.com/x0rz/tweets_analyzer) ![img](https://github.com/x0rz.png?size=20) | python | ⭐ 2977 | ✅ Yes | 2023-11-14 | ✅ |
-| [twikit](https://github.com/d60/twikit) ![img](https://github.com/d60.png?size=20) | python | ⭐ 2565 | ✅ Yes | 2025-04-22 | ✅ |
+| Name | Language | Stars | Maintained | Last Updated |
+|------|----------|-------|------------|--------------|
+| [twitter-scraper](https://github.com/bisguzar/twitter-scraper) ![img](https://github.com/bisguzar.png?size=20) | python | ⭐ 3977 | ❌ No | 2023-10-30 |
+| [tweets_analyzer](https://github.com/x0rz/tweets_analyzer) ![img](https://github.com/x0rz.png?size=20) | python | ⭐ 2977 | ❌ No | 2023-11-14 |
+| [twikit](https://github.com/d60/twikit) ![img](https://github.com/d60.png?size=20) | python | ⭐ 2565 | ✅ Yes | 2025-04-22 |
 
 🟢 = actively maintained \| 🔴 = not updated in 6 + months
 
 ---
 
 ## 🧑‍💻 Twitter Scrapers By Language <a id="twitter-scrapers-by-language"></a>
-
-### Go
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [twitter-scraper](https://github.com/n0madic/twitter-scraper) | ⭐ 963 | 2023-11-04 | — | ✅ Yes |
-
-
-### Jupyter Notebook
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [selenium-twitter-scraper](https://github.com/godkingjay/selenium-twitter-scraper) | ⭐ 259 | 2025-04-12 | — | ✅ Yes |
-| [TwitterScraper](https://github.com/MartinKBeck/TwitterScraper) | ⭐ 200 | 2023-08-22 | — | ✅ Yes |
+### Python
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [twitter-scraper](https://github.com/bisguzar/twitter-scraper) | ⭐ 3977 | 2023-10-30 | immediate | ❌ No |
+| [tweets_analyzer](https://github.com/x0rz/tweets_analyzer) | ⭐ 2977 | 2023-11-14 | beginner | ❌ No |
+| [twikit](https://github.com/d60/twikit) | ⭐ 2565 | 2025-04-22 | immediate | ✅ Yes |
+| [TweetScraper](https://github.com/jonbakerfish/TweetScraper) | ⭐ 1037 | 2021-04-03 | immediate | ❌ No |
+| [tweety](https://github.com/mahrtayyab/tweety) | ⭐ 583 | 2025-03-24 | immediate | ✅ Yes |
 
 
 ### Node.js
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [twitter-scraper](https://github.com/the-convocation/twitter-scraper) | ⭐ 414 | 2025-04-06 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [twitter-scraper](https://github.com/the-convocation/twitter-scraper) | ⭐ 414 | 2025-04-06 | professional | ✅ Yes |
 
 
-### Python
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [twitter-scraper](https://github.com/bisguzar/twitter-scraper) | ⭐ 3977 | 2023-10-30 | — | ✅ Yes |
-| [tweets_analyzer](https://github.com/x0rz/tweets_analyzer) | ⭐ 2977 | 2023-11-14 | — | ✅ Yes |
-| [twikit](https://github.com/d60/twikit) | ⭐ 2565 | 2025-04-22 | — | ✅ Yes |
-| [TweetScraper](https://github.com/jonbakerfish/TweetScraper) | ⭐ 1037 | 2021-04-03 | — | ✅ Yes |
-| [tweety](https://github.com/mahrtayyab/tweety) | ⭐ 583 | 2025-03-24 | — | ✅ Yes |
+### Go
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [twitter-scraper](https://github.com/n0madic/twitter-scraper) | ⭐ 963 | 2023-11-04 | immediate | ❌ No |
+
+
+### Jupyter Notebook
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [selenium-twitter-scraper](https://github.com/godkingjay/selenium-twitter-scraper) | ⭐ 259 | 2025-04-12 | immediate | ✅ Yes |
+| [TwitterScraper](https://github.com/MartinKBeck/TwitterScraper) | ⭐ 200 | 2023-08-22 | professional | ❌ No |
 
 ---
 
@@ -105,7 +115,7 @@ Know a Twitter scraper we missed? Want us to include your project?
 
 - Click **[New Issue](../../issues/new)** on this repo
 - Include the GitHub URL, language, and brief description
-- We’ll validate and include it in the next update
+- We'll validate and include it in the next update
 
 All contributions welcome! We'll vet and include approved scrapers in the next update.
 
