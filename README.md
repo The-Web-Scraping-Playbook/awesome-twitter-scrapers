@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Twitter OpsKit
-> Find out everything you need to know to reliably scrape Twitter with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/twitter)
+> Find out everything you need to know to reliably scrape Twitter with our new tool: [Ops Kit](https://scrapeops.io/websites/twitter)
 
 This kit provides the blueprint for Twitter scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -103,7 +103,7 @@ This kit provides the blueprint for Twitter scraping operations:
 ---
 
 ## 🧠 Twitter Tutorials & How-Tos<a id="twitter-tutorials"></a>
-- 📘 [How to Scrape Twitter at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-twitter/)
+- 📘 [How to Scrape Twitter at Scale](https://scrapeops.io/websites/twitter/how-to-scrape-twitter)
 - 🔐 [Web Scraping Twitter Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
