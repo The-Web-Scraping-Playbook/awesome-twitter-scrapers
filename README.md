@@ -23,10 +23,10 @@ Perfect for:
 
 ---
 
-## 🧠 Twitter OpsKit
-> Find out everything you need to know to reliably scrape Twitter with our new tool: [Ops Kit](https://scrapeops.io/websites/twitter)
+## 🧠 Twitter Website Scraping Analyzer
+> Find out everything you need to know to reliably scrape Twitter with our new tool: [Website Scraping Analyzer](https://scrapeops.io/websites/twitter)
 
-This kit provides the blueprint for Twitter scraping operations:
+Our Website Scraping Analyzer provides the blueprint for Twitter scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
 - **Data:** Data Types, Public APIs
 - **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
@@ -129,7 +129,6 @@ All contributions welcome! We'll vet and include approved scrapers in the next u
 
 ## 🏷 Tags
 Twitter scraper, web scraping, twitter API, python scraper, playwright, data scraping, anti-bot, github, open-source twitter crawler, ScrapeOps
-
 
 ---
 
